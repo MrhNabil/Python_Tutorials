@@ -1,3 +1,5 @@
+# using a boolean function in if statement
+
 for_sale = False
 
 if for_sale:
